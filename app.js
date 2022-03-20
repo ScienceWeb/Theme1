@@ -141,8 +141,8 @@ let quizArray = [
     options: [
       "Herbs",
       "Shrubs",
-      "Vegtables",
-      "Tress",
+      "Vegetables",
+      "Trees",
       
     ],
     correct: 0,
@@ -175,9 +175,9 @@ let quizArray = [
   {
     question: "15. A metal spoon _____________________ when it is put in water",
     options: [
-      "Floats",
-      "Shrinks",
       "Sinks",
+      "Shrinks",
+      "Floats",
       "Melts",
       
     ],
