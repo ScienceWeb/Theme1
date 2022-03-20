@@ -42,7 +42,7 @@ clearInterval(time);
 let quizArray = [
   {
     question:
-      "1. Which of the followinf is not a living thing?",
+      "1. Which of the following is not a living thing?",
     options: ["Robot", "Horse", "Fern", "Human being"],
     correct: 0,
     image: "",
