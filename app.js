@@ -194,7 +194,7 @@ let quizArray = [
     question: "17. Which of the following objects will float on water?",
     options: ["A cork", "Marbles", "A nail clipper", "A key"],
     correct: 0,
-    image: "Img17.jpg",
+    image: "Img2.jpg",
   },
   {
     question: "18. We use a ___________________________ to see small objects.",
