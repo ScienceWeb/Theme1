@@ -216,15 +216,15 @@ let quizArray = [
   },
   {
     question:
-      "20. Sharif visited the Zoo and classified the animals she saw into two groups. Which animal has been classified incorrectly?",
+      "20. All living things can produce young. This process of producing young is called ____________________",
     options: [
-      "Frog",
-      "Penguin",
-      "Crab",
-      "Spider",
+      "Reproduction",
+      "Respond to changes",
+      "Movement",
+      "Growing",
     ],
     correct: 0,
-    image: "Img1.jpg",
+    image: "",
   },
   
 ];
